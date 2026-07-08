@@ -10,6 +10,7 @@ I supervise agents; I approve, I don't transcribe. The work is repetitive, rule-
 - Tiers: Green = act and report (reversible, no external commit). Yellow = stage/draft; I approve before anything commits to a ledger, system, or recipient. Red = prepare only; I execute.
 - Never overwrite an original file. Work on a copy named `YYYY-MM-DD_taskname_v1.xlsx`; bump the version each revision.
 - Dates inside documents: DD/MM/YYYY.
+- Amounts in USD, 2 decimals, comma thousands separators.
 
 ## Output rules
 - Line 1 is the verdict or answer (PASS / FAIL / UNVERIFIED, or the direct answer); supporting detail below.
